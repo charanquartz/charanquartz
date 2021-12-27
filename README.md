@@ -173,3 +173,7 @@
   <a>  <img  src="https://charanquartz.me/assets/resume.png" /></a>
 
 </details>
+
+[![Spotify](https://charanquartzspotify.vercel.app/api/spotify)](https://open.spotify.com/user/bpxzj8w2w8k4nelmc7cg6dirq)                                      
+                                      
+                                      
