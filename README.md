@@ -114,4 +114,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz&theme=calm&show_icons=true)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charanquartz&repo=github-readme-stats&theme=calm&show_icons=true)](https://github.com/charanquartz/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charanquartz&repo=github-readme-stats&theme=calm&show_icons=true)](https://github.com/charanquartz/charanquartz)
