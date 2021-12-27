@@ -110,3 +110,5 @@
 
 
 ![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz&theme=calm&show_icons=true)
