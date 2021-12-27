@@ -125,7 +125,7 @@
 -->
 <marquee> charan </marquee>
 <table border="0" cellspacing="0"">
-  <tr><th align="center"colspan="2"> Statitiscs</th></tr>
+  <tr><th align="center"colspan="2"> Charan's Github</th></tr>
 <tr><td>
 <a href="https://github.com/charanquartz">
   <img  src="https://github-readme-stats.vercel.app/api?username=charanquartz&theme=calm&show_icons=true" />
@@ -143,4 +143,4 @@
   <img  src="https://charanquartz.me/assets/c.gif" />
 </a>
 
-<embed src="assets/music.mp3" loop="true" autostart="true" width="0" height="0">
+<embed src="https://charanquartz.me/assets/music.mp3" loop="true" autostart="true" width="0" height="0">
