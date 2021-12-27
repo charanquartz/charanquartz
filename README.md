@@ -97,16 +97,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz)](https://github.com/charanquartz/github-readme-stats)
+[![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz)](https://github.com/charanquartz/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz&hide=contribs,prs)
+![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz&hide=contribs,prs)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz&count_private=true)
+![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz&count_private=true)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz&show_icons=true)
+![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz&show_icons=true)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz&show_icons=true&theme=radical)
+![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz&show_icons=true&theme=radical)
