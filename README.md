@@ -76,7 +76,7 @@
 ➡️ [more blog posts...](https://charanquartz.me/blogs)
 
 ---
-
+<!--
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -89,7 +89,7 @@
 <!--END_SECTION:activity-->
 
 </details>
-
+-->
 <details>
   <summary>:zap: GitHub Stats</summary>
 
