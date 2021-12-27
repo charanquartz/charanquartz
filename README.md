@@ -154,6 +154,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="charanquartz's GitHub Stats" src="https://charanquartz001.vercel.app/api?username=charanquartz&show_icons=true&hide_border=true" />
+  <img align="left" alt="charanquartz's GitHub Stats" src="https://charanquartz001.vercel.app/api?username=charanquartz&hide=contribs,prs&theme=dark&show_icons=true" />
 
 </details>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
