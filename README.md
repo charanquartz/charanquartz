@@ -137,10 +137,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charanquartz&repo=github-readme-stats&theme=calm&show_icons=true" />
 </a></td>
   </tr>
-</table>
-
-<a href="https://github.com/charanquartz">
+    <tr>
+      <td align="center"colspan="2">
+        <a href="https://github.com/charanquartz">
   <img  src="https://charanquartz.me/assets/c.gif" />
 </a>
+      </td>
+    </tr>
+</table>
+
+
 
 <embed src="https://charanquartz.me/assets/music.mp3" loop="true" autostart="true" width="0" height="0">
