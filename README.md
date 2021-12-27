@@ -157,7 +157,7 @@
   <img align="left" alt="charanquartz's GitHub Stats" src="https://charanquartz001.vercel.app/api?username=charanquartz&hide=contribs,prs&theme=dark&show_icons=true" />
 
 </details>
----
+<!--
 
 <details>
   <summary>:zap: Recent Activity</summary>
@@ -166,7 +166,7 @@
 
 <!--END_SECTION:activity-->
 </details>
----
+-->
 <details>
   <summary>:zap: Resume</summary>
 
