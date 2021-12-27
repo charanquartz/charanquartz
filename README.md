@@ -118,3 +118,15 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charanquartz&repo=github-readme-stats&theme=calm&show_icons=true)](https://github.com/charanquartz)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanquartz&theme=calm&show_icons=true&layout=compact)](https://github.com/charanquartz)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
