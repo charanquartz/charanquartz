@@ -117,4 +117,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charanquartz&repo=github-readme-stats&theme=calm&show_icons=true)](https://github.com/charanquartz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanquartz&theme=calm&show_icons=true)](https://github.com/charanquartz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanquartz&theme=calm&show_icons=true&layout=compact)](https://github.com/charanquartz)
