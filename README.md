@@ -96,7 +96,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  
+<!--
 [![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz)](https://github.com/charanquartz/github-readme-stats)
 
 
@@ -110,5 +110,5 @@
 
 
 ![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz&show_icons=true&theme=radical)
-
+-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz&theme=calm&show_icons=true)
