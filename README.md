@@ -81,8 +81,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+[![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz)](https://github.com/charanquartz/github-readme-stats)
 
-  <img align="left" alt="charanquartz's GitHub Stats" src="https://github-readme-stats.charanquartz.vercel.app/api?username=charanquartz&show_icons=true&hide_border=true" />
+  <img align="left" alt="charanquartz's GitHub Stats" src="https://github-readme-stats.charanquartz.vercel.app/api?username=charanquartz&show_icons=true&hide_border=true"/>
 
 </details>
 
