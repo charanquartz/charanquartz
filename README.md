@@ -174,6 +174,6 @@
 
 </details>
 
-[![Spotify](https://charanquartzspotify.vercel.app/api/spotify)](https://open.spotify.com/user/bpxzj8w2w8k4nelmc7cg6dirq)                                      
+[![Spotify](https://charanquartzspotify.vercel.app/api/spotify/?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/bpxzj8w2w8k4nelmc7cg6dirq)                                      
                                       
                                       
