@@ -124,7 +124,7 @@
 [![charanquartz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charanquartz&theme=calm&show_icons=true&layout=compact)](https://github.com/charanquartz/github-readme-stats)
 -->
 <table border="0" style="width:825px;border:0px;">
-  <tr><thalign="center"colspan="2"> Statitiscs</th></tr>
+  <tr><th align="center"colspan="2"> Statitiscs</th></tr>
 <tr><td>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=charanquartz&theme=calm&show_icons=true" />
