@@ -123,7 +123,7 @@
 <!--
 [![charanquartz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charanquartz&theme=calm&show_icons=true&layout=compact)](https://github.com/charanquartz/github-readme-stats)
 -->
-<table border="0" style="width:825px;border:0px;">
+<table border="0" cellspacing="0"">
   <tr><th align="center"colspan="2"> Statitiscs</th></tr>
 <tr><td>
 <a href="https://github.com/charanquartz">
@@ -133,7 +133,7 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanquartz&theme=calm&show_icons=true&layout=compact" />
 </a></td></tr><tr><td align="center"colspan="2">
 <a href="https://github.com/charanquartz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charanquartz&repo=charanquartz&theme=calm&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charanquartz&repo=github-readme-stats&theme=calm&show_icons=true" />
 </a></td>
   </tr>
 </table>
