@@ -159,9 +159,8 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Resume</summary>
 
-  <iframe src="https://www.charanquartz.me/assets/resume.pdf" width="100%" height="500px">
-    </iframe>
+  <a>  <img  src="https://charanquartz.me/assets/resume.png" /></a>
 
 </details>
