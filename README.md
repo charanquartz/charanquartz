@@ -123,16 +123,16 @@
 <!--
 [![charanquartz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charanquartz&theme=calm&show_icons=true&layout=compact)](https://github.com/charanquartz/github-readme-stats)
 -->
-<table style="border:0px solid white;">
+<table border="0" style="width:825px;border:0px;">
 <tr><td>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=charanquartz&theme=calm&show_icons=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=charanquartz&theme=calm&show_icons=true" />
 </a></td><td>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanquartz&theme=calm&show_icons=true&layout=compact" />
-</a></td></tr><tr>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanquartz&theme=calm&show_icons=true&layout=compact" />
+</a></td></tr><tr><td colspan="2">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=charanquartz&repo=github-readme-stats&theme=calm&show_icons=true" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charanquartz&repo=github-readme-stats&theme=calm&show_icons=true" />
+</a></td>
   </tr>
 </table>
