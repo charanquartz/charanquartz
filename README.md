@@ -123,6 +123,7 @@
 <!--
 [![charanquartz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charanquartz&theme=calm&show_icons=true&layout=compact)](https://github.com/charanquartz/github-readme-stats)
 -->
+<marquee> charan </marquee>
 <table border="0" cellspacing="0"">
   <tr><th align="center"colspan="2"> Statitiscs</th></tr>
 <tr><td>
