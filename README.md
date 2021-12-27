@@ -123,15 +123,16 @@
 <!--
 [![charanquartz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charanquartz&theme=calm&show_icons=true&layout=compact)](https://github.com/charanquartz/github-readme-stats)
 -->
-
-
+<table>
+<tr><td>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=charanquartz&theme=calm&show_icons=true" />
-</a>
+</a></td><td>
     <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanquartz&theme=calm&show_icons=true&layout=compact" />
-</a>
+</a></td></tr>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=charanquartz&repo=github-readme-stats&theme=calm&show_icons=true" />
 </a>
 
+</table>
