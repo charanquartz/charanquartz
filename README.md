@@ -166,7 +166,7 @@
 
 <!--END_SECTION:activity-->
 </details>
--->
+
 <details>
   <summary>:zap: Resume</summary>
 
