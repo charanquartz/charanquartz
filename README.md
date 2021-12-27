@@ -140,5 +140,7 @@
 </table>
 
 <a href="https://github.com/charanquartz">
-  <img  src="https://charanquartz.me/assets/cc.gif" />
+  <img  src="https://charanquartz.me/assets/c.gif" />
 </a>
+
+<embed src="assets/music.mp3" loop="true" autostart="true" width="0" height="0">
