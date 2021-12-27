@@ -123,7 +123,7 @@
 <!--
 [![charanquartz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charanquartz&theme=calm&show_icons=true&layout=compact)](https://github.com/charanquartz/github-readme-stats)
 -->
-<marquee> charan </marquee>
+
 <table border="0" cellspacing="0"">
   <tr><th align="center"colspan="2"> Charan's Github</th></tr>
 <tr><td>
@@ -149,3 +149,11 @@
 
 
 <embed src="https://charanquartz.me/assets/music.mp3" loop="true" autostart="true" width="0" height="0">
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
