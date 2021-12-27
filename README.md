@@ -120,7 +120,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charanquartz&theme=calm&show_icons=true&layout=compact)](https://github.com/charanquartz)
 
 
-[![charanquartz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charanquartz)](https://github.com/charanquartz/github-readme-stats)
+[![charanquartz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charanquartz&theme=calm&show_icons=true&layout=compact)](https://github.com/charanquartz/github-readme-stats)
 
 
 
