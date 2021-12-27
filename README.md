@@ -123,7 +123,7 @@
 <!--
 [![charanquartz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=charanquartz&theme=calm&show_icons=true&layout=compact)](https://github.com/charanquartz/github-readme-stats)
 -->
-<table>
+<table style="border:0px solid white;">
 <tr><td>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=charanquartz&theme=calm&show_icons=true" />
