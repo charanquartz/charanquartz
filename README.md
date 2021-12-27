@@ -79,13 +79,7 @@
 
 <!-- readme.test -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-[![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz)](https://github.com/charanquartz/github-readme-stats)
 
-  <img align="left" alt="charanquartz's GitHub Stats" src="https://github-readme-stats.charanquartz.vercel.app/api?username=charanquartz&show_icons=true&hide_border=true"/>
-
-</details>
 
 [website]: https://charanquartz.me
 [course]: http://vsCodeHero.com
@@ -97,9 +91,9 @@
 [jsplaylist]: <!--https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B -->
 [cssplaylist]: <!--https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4 -->
 [reactplaylist]: <!--https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
-th ...
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
