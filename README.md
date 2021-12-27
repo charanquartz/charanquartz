@@ -91,11 +91,12 @@
 [jsplaylist]: <!--https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B -->
 [cssplaylist]: <!--https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4 -->
 [reactplaylist]: <!--https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
-
+<!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 <!--
 [![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanquartz)](https://github.com/charanquartz/github-readme-stats)
 
