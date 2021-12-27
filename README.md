@@ -155,5 +155,13 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="charanquartz's GitHub Stats" src="https://charanquartz001.vercel.app/api?username=charanquartz&hide=contribs,prs&theme=dark&show_icons=true" />
+<a>  <img  src="https://charanquartz.me/assets/cc.gif" /></a>
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <iframe src="https://www.charanquartz.me/assets/resume.pdf" width="100%" height="500px">
+    </iframe>
 
 </details>
