@@ -141,6 +141,7 @@
       <td align="center"colspan="2">
         <a href="https://github.com/charanquartz">
   <img  src="https://charanquartz.me/assets/c.gif" />
+          <img  src="https://charanquartz.me/assets/c.gif" />
 </a>
       </td>
     </tr>
