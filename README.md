@@ -192,3 +192,5 @@ https://user-images.githubusercontent.com/63697628/147544698-f15da145-c076-4df8-
 
          
                                       
+                                   
+[spotify api github.txt](https://github.com/charanquartz/charanquartz/files/7783642/spotify.api.github.txt)
