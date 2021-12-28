@@ -164,7 +164,7 @@
 <details>
   <summary>:zap: Resume</summary>
 
-  <a>  <img  src="https://charanquartz.me/assets/resume.png" /></a>
+  <a>  <img  src="https://github.com/charanquartz/charanquartz/blob/main/resume.png" /></a>
 
 </details>
 <br>
