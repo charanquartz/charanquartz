@@ -184,13 +184,19 @@
                                       
                                       
                                       
-                                      
-                                      
-##video                             
+ 
+<details>
+  <summary>:zap: Video</summary>
 
-https://user-images.githubusercontent.com/63697628/147544698-f15da145-c076-4df8-b574-e28c01836e37.mp4/?background_color=8b0000&border_color=ffffff
+  https://user-images.githubusercontent.com/63697628/147544698-f15da145-c076-4df8-b574-e28c01836e37.mp4/?background_color=8b0000&border_color=ffffff
+
+
+</details>                                      
+      
+                                                                           
+                                      
+
 
          
                                       
                                    
-[spotify api github.txt](https://github.com/charanquartz/charanquartz/files/7783642/spotify.api.github.txt)
