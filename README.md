@@ -174,13 +174,14 @@
   <a>  <img  src="https://charanquartz.me/assets/resume.png" /></a>
 
 </details>
-
-[![Spotify](https://charanquartzspotify.vercel.app/api/spotify/?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/bpxzj8w2w8k4nelmc7cg6dirq)                                      
-                                      
 <br>
                                       </br>
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charanquartz&" alt="charanquartz" /></p>
+     <br>
+                                      </br>                                  
+[![Spotify](https://charanquartzspotify.vercel.app/api/spotify/?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/bpxzj8w2w8k4nelmc7cg6dirq)                                      
                                       
+
                                       
                                       
                                       
