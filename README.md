@@ -193,13 +193,16 @@
 
   https://user-images.githubusercontent.com/63697628/147544698-f15da145-c076-4df8-b574-e28c01836e37.mp4/?background_color=8b0000&border_color=ffffff
 
+[resume.pdf](https://github.com/charanquartz/charanquartz/files/7783667/resume.pdf)
 
 </details>                                      
       
                                                                            
                                       
+[gifcompressor.zip](https://github.com/charanquartz/charanquartz/files/7783668/gifcompressor.zip)
 
 
-         
+         [soundtech.pptx](https://github.com/charanquartz/charanquartz/files/7783669/soundtech.pptx)
+
                                       
                                    
