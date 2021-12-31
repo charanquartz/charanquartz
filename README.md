@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=charanquartz.me&style=for-the-badge&url=https%3A%2F%2Fcharanquartz.me)](https://charanquartz.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/charanquartz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcharanquartz&screen_name=charanquartz)
+![GitHub followers](https://img.shields.io/github/followers/charanquartz?color=red&logoColor=red&style=social)
 <!--
 [![pages-build-deployment](https://github.com/charanquartz/charanquartz/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/charanquartz/charanquartz/actions/workflows/pages/pages-build-deployment)
 -->
