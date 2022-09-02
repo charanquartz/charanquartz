@@ -138,7 +138,7 @@
     <tr>
       <td align="center"colspan="2">
         <a href="https://github.com/charanquartz">
-  <!--<img  src="https://charanquartz.me/assets/c.gif" /> -->
+  <!--<img  src="https://charan.live/assets/c.gif" /> -->
           <img  src="https://github.com/charanquartz/charanquartz/blob/main/c.gif" />
 </a>
       </td>
@@ -147,7 +147,7 @@
 
 
 
-<embed src="https://charanquartz.me/assets/music.mp3" loop="true" autostart="true" width="0" height="0">
+<embed src="https://charan.live/assets/music.mp3" loop="true" autostart="true" width="0" height="0">
 
 
 <details>
