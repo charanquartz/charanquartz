@@ -82,7 +82,7 @@
 [website]: https://charan.live
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/charanquartz
-[youtube]: https://youtube.com/charanquartz
+[youtube]: https://youtube.com/@charanquartz
 [instagram]: https://instagram.com/charanquartz
 [linkedin]: https://linkedin.com/in/charanquartz
 [webdevplaylist]: <!--https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt -->
