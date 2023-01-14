@@ -197,7 +197,7 @@
       <details>
   <summary>:zap: File Structure</summary>
 
-  ![Visualization of this repo](./rr.svg)
+  ![Visualization of this repo](./diagram.svg)
 
 
 </details>  
